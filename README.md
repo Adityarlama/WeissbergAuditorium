@@ -42,5 +42,5 @@ Retrieved 2025-11-14, License - CC BY-SA 4.0
 ## Page 2
 
 <p align="center">
-  <img src=["Page 2"](https://i.imgur.com/M6NHXR7.png) />
+  <img src=["Page 2"](https://imgur.com/gallery/weissberg-auditorium-instructional-sheet-page-2-Nr5ZGOM) />
 </p>
