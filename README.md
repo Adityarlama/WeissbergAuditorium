@@ -26,22 +26,14 @@ Led a full usability and reliability improvement initiative for the Weissberg Au
 
 ## Project Documentation
 
-<!--
-Source - https://stackoverflow.com/a
-Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
-Retrieved 2025-11-14, License - CC BY-SA 4.0
--->
-## Page 1
-
 <p align="center">
   <img src="https://i.imgur.com/illV8zg.png" alt="Page 1" />
 </p>
 
-
----
-
-## Page 2
+-
+-
+-
 
 <p align="center">
-  <img src=["Page 2"](https://imgur.com/gallery/weissberg-auditorium-instructional-sheet-page-2-Nr5ZGOM) />
+  <img src= "https://i.imgur.com/M6NHXR7.png" alt="Page 2" />
 </p>
