@@ -34,8 +34,9 @@ Retrieved 2025-11-14, License - CC BY-SA 4.0
 ## Page 1
 
 <p align="center">
-  <img src=["Page 1"](https://i.imgur.com/illV8zg.png) />
+  <img src="https://i.imgur.com/illV8zg.png" alt="Page 1" />
 </p>
+
 
 ---
 
