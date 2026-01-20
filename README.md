@@ -1,7 +1,7 @@
 ## 🎛️ Weissberg Auditorium AV System Overhaul  
 
 **Beloit Powerhouse — Independent Project**  
-**Dec 2023 – Jan 2024**  
+**August 2024 – December 2024**  
 **Project Deliverable:** [AV System Instructional Guide (2 pages)](https://imgur.com/gallery/weissberg-auditorium-instructional-sheets-u9Afqkr)
 
 ### 📌 Overview  
